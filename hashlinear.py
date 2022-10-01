@@ -1,3 +1,7 @@
+## DISCLAIMER ##
+## I am not proud of this ##
+## Every single line of code took years off my life-expectancy ##
+
 class HashLinear:
     def __init__(self, M):
         self.M = M              # table size
